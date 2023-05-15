@@ -4,7 +4,7 @@
 - 👀 I’m interested in e-commerce and startup industry.
 - 🌱 I’m currently learning Blockchain and chartGPT.
 - 💞️ I’m looking to collaborate on remote jobs.
-- 📫 How to reach me sr.gabeli@gmail.com
+- 📫 How to reach me thewise.0wmaa@slmail.me
 
 <!---
 TopDeveloperGL/TopDeveloperGL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
