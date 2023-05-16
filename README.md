@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @TopDeveloperGL - seasoned full-stack developer.
-- 💖 PHP JS Node.js Express MongoDB MySQL PostgreSQL MariaDB
-- 😎 I have hands-on experience in MERN stack and Laravel + Vue.
+- 👋 Hi, I’m @codehiro0517 - seasoned full-stack developer.
+- 💖 I have extensive experience in Python, Node.js, Express, React, Vue, MongoDB, MySQL, PostgreSQL, MariaDB.
 - 👀 I’m interested in e-commerce and startup industry.
 - 🌱 I’m currently learning Blockchain and chartGPT.
 - 💞️ I’m looking to collaborate on remote jobs.
