@@ -57,11 +57,6 @@
   <img src="https://skillicons.dev/icons?i=bots" height="40" alt="abbrobotstudio logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
 
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
