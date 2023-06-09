@@ -30,7 +30,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SmartDev-0205&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=apholdings&"  />
 </div>
 
 ###
@@ -76,7 +76,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SmartDev-0205&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=apholdings&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
