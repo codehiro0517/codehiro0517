@@ -30,7 +30,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=miracletalent.miracletalent&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hensly&"  />
 </div>
 
 ###
@@ -76,7 +76,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=miracletalent&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=hensly&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
