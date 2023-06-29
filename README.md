@@ -14,7 +14,7 @@
 - 💖 I have extensive experience in Python.<br>
 - 👀 I’m interested in e-commerce and startup industry.<br>
 - 🌱 I’m currently trying to enhance my knowledge base on Blockchain.<br>
-- 📫 How to reach me thewise.0wmaa@slmail.me
+- 📫 How to reach me codenerd.pj0517@gmail.com
 </p>
 
 ###
