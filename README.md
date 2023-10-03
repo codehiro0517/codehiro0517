@@ -1,8 +1,6 @@
 ###
 
-<h1 align="center">Codenerd</h1>
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Codenerd
 <p>Thanks. I'm glad you found your way to my Github profile.</p>
 
 ###
