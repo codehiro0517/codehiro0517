@@ -12,7 +12,7 @@
 <p align="left">
 - 👩‍💻 I’m @codehiro0517, a seasoned full-stack developer.<br>
 - 💖 I have extensive experience in Python and Javascript.<br>
-- 👀 I’m interested in e-commerce and startup industry.<br>
+- 👀 I’m interested in healthcare, e-commerce industry and early-stage startups.<br>
 - 🌱 I’m currently trying to enhance my knowledge base on Blockchain.<br>
 - 📫 How to reach me codenerd.pj0517@gmail.com
 </p>
